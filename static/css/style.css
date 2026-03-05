@@ -1,0 +1,37 @@
+/* Paragraph Styling */
+p {
+    font-family: Arial,sans-serif;
+    color: #333;
+}
+/* Level 2 Header Styling*/
+h2 {
+    color: navy;
+    border-bottom: 2px solid gray;
+}
+/* Table Styling*/
+table {
+    border: 2px solid black;
+    border-color: darkblue;
+    border-collapse: collapse;
+}
+/* Table Cells*/
+td, th {
+    border: 1px solid gray;
+    padding: 5px;
+}
+
+/* Class Styling Example */
+.markBlue {
+    color: blue;
+    font-weight: bold;
+}
+/* Styling for the third paragraph */
+#third-paragraph {
+    color: darkgreen;
+    font-style: italic;
+}
+/*Logo styling*/
+img.logo {
+    width: 300px;
+    height: auto;
+}
